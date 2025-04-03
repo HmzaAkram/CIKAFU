@@ -162,7 +162,7 @@ export default function Contact() {
         <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="bg-white dark:bg-navy-950 rounded-xl shadow-md p-6 text-center">
             <h3 className="text-lg font-semibold mb-2 text-navy-900 dark:text-white">Email</h3>
-            <p className="text-navy-600 dark:text-navy-300">contact@blogtemplate.com</p>
+            <p className="text-navy-600 dark:text-navy-300">contact@CIKAFU.com</p>
           </div>
 
           <div className="bg-white dark:bg-navy-950 rounded-xl shadow-md p-6 text-center">
