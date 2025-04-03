@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
             <Link href="/" className="text-2xl font-bold text-navy-900 dark:text-white">
-              BlogTemplate
+              CIKAFU
             </Link>
             <p className="mt-4 text-navy-800 dark:text-navy-300">
               A modern and responsive blogging website template with a clean design and user-friendly interface.
@@ -98,7 +98,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center text-navy-600 dark:text-navy-300">
                 <Mail className="h-4 w-4 mr-2" />
-                contact@blogtemplate.com
+                contact@CIKAFU.com
               </li>
               <li className="flex items-center text-navy-600 dark:text-navy-300">
                 <Phone className="h-4 w-4 mr-2" />
@@ -144,7 +144,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-200 dark:border-navy-800 mt-8 pt-8 text-center text-navy-600 dark:text-navy-300">
-          <p>&copy; {currentYear} BlogTemplate. All rights reserved.</p>
+          <p>&copy; {currentYear} CIKAFU. All rights reserved.</p>
         </div>
       </div>
     </footer>
